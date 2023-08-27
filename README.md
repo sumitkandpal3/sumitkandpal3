@@ -4,7 +4,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="390">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpandey9&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkandpal3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkandpal3&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkandpal3" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/sumit-kandpal-4b1606254/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Sumit Kandpal" /></a> </p>
 
