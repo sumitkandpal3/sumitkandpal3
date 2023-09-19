@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitkandpal_" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkandpal_?logo=twitter&style=for-the-badge" alt="sumitkandpal_" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript Projects and learning stack**
+- 🔭 I’m currently working on **Javascript Projects and learning stack.**
 
 - 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
