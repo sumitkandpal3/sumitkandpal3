@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Javascript Projects**
 
-- 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack.**
+- 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
 - 💬 Ask me about **MERN ,C++, github.**
 
